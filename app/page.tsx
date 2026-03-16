@@ -423,7 +423,7 @@ export default function Page() {
           <div className="card soft-grid overflow-hidden">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 p-7 md:p-10">
               <div>
-                <div className="badge mb-4">White + orange build</div>
+                <div className="badge mb-4">Mushee + Starknet build</div>
                 <h1 className="hero-number">Mushee Yield</h1>
                 <p className="text-black/60 mt-3 max-w-2xl">
                   Connect your wallet, load pools, stake on testnet, claim rewards, get test tokens, create a bitcoin birthday card, and explore a playful spin experience in one clean interface.
