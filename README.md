@@ -1,7 +1,7 @@
 # Mushee Yield — Powered by Starkzap
 
 **Built by Mushee (UK incorporated)**  
-**Tagline:** *Make yield feel like a button.*
+**Tagline:** Make yield feel like a button.
 
 ## Overview
 
