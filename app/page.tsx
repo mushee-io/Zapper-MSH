@@ -855,7 +855,7 @@ export default function Page() {
           <div className="rule mb-5" />
           <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-2">
             <div><span className="font-medium text-black">Mushee</span> — UK incorporated. <span className="text-black">Make yield feel like a button.</span></div>
-            <div className="text-xs">Powered by Starkzap • White + orange • Testnet demo</div>
+            <div className="text-xs">Powered by Starkzap • Mushee + Starknet • Built on testnet</div>
           </div>
         </footer>
       </div>
