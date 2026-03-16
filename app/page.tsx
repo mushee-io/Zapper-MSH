@@ -416,7 +416,7 @@ export default function Page() {
             <div className="hidden md:flex items-center gap-2 text-xs text-black/60">
               <span className="kbd">⌘</span>
               <span className="kbd">K</span>
-              <span>clean demo mode</span>
+              <span>building the commons</span>
             </div>
           </div>
 
